@@ -7,5 +7,5 @@ Contains practical approaches for the following AutoML frameworks:
 - Auto-sklearn 
 - H2O AutoML
 ## Notes on Environment Setup
-There are two CSV files with example data for training and testing.
-Software package versions: Python 3.8.X, Auto-sklearn 0.14.3, H2O cluster version 3.36.0.1
+- There are two CSV files with example data for training and testing.
+- Software package versions: Python 3.8.X, Auto-sklearn 0.14.3, H2O cluster version 3.36.0.1
